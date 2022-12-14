@@ -1,8 +1,8 @@
 # OracleSql
-## DDL
-[CREATE](https://github.com/2005Payne/DDL_CREATE)   
-[ALTER](https://github.com/2005Payne/DDL_ALTER)   
-[DROP](https://github.com/2005Payne/DDL_DROP)   
+## [DDL](https://gitgub.com/2005Payne/DDL)
+CREATE
+ALTER
+DROP
 ## [DML](https://github.com/2005Payne/DML)
 SELECT   
 INSERT   
