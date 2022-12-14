@@ -1,6 +1,6 @@
 # OracleSql
 ## DDL
-CREATE   
+[CREATE](https://github.com/2005Payne/DDL_CREATE)   
 ALTER   
 DROP   
 ## DML
