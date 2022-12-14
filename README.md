@@ -8,7 +8,7 @@ SELECT
 INSERT   
 DELETE   
 UPDATE   
-## DCL
+## [DCL](https://github.com/2005Payne/DCL)
 GRANT   
 REVOKE   
 COMMIT   
