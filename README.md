@@ -3,7 +3,7 @@
 [CREATE](https://github.com/2005Payne/DDL_CREATE)   
 [ALTER](https://github.com/2005Payne/DDL_ALTER)   
 [DROP](https://github.com/2005Payne/DDL_DROP)   
-## DML
+## [DML](https://github.com/2005Payne/DML)
 SELECT   
 INSERT   
 DELETE   
