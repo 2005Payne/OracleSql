@@ -2,7 +2,7 @@
 ## DDL
 [CREATE](https://github.com/2005Payne/DDL_CREATE)   
 [ALTER](https://github.com/2005Payne/DDL_ALTER)   
-DROP   
+[DROP](https://github.com/2005Payne/DDL_DROP)   
 ## DML
 SELECT   
 INSERT   
