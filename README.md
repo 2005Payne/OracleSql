@@ -1,7 +1,7 @@
 # OracleSql
 ## DDL
 [CREATE](https://github.com/2005Payne/DDL_CREATE)   
-ALTER   
+[ALTER](https://github.com/2005Payne/DDL_ALTER)   
 DROP   
 ## DML
 SELECT   
