@@ -28,3 +28,5 @@ FOREGIN KEY (references 랑 같이 쓰임)
 CHECK   
 DEFAULT   
 INDEX   
+## 테이블 구조 보기
+ DESC 테이블명;
